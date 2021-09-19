@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Dai0526/Warehouse/issues"
   },
-  "homepage": "https://github.com/Dai0526/Warehouse#readme"
+  "homepage": "https://github.com/Dai0526/Warehouse#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mangodb": "^1.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
 }
